@@ -19,8 +19,8 @@ Python 3.x
 
 - Clone the Repository:
 ```bash
-git clone https://github.com/your_username/your_project.git
-cd your_project
+git clone https://github.com/urboifox/python-minigames.git
+cd python-minigames
 ```
 
 - Run the Project:
